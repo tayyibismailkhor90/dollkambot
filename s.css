@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-image: url('bg\ img.jfif');
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    border-radius: 50%;
+    background-position: center;
+    width: 200px;
+    border: 2px solid #000;
+}
+.score{
+    margin-top: 15px;
+    width: 300px;
+    font-size: 70px;
+    color: rgb(38, 0, 255);
+    margin-left: 150px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 15px;
+}
+#your{
+    text-align: center;
+    width: 400px;
+    font-weight: 900;
+    font-size: 70px;
+ margin-left: 100px;
+ background-color: azure;
+    color: rgb(255, 0, 255);
+margin-top: 50px;
+}
+.adds{
+
+    position: absolute;
+    margin-top: 100px;
+    padding-left:  0; 
+    margin-right :100px; 
+    background-color:transparent;
+    margin-left: 100px;
+}
+#fgh{
+   
+    width: 320px;
+    height: 320px;
+}
+.lkjhg{
+    text-align: center;
+    font-size: 35px;
+    color: rgb(255, 72, 0);
+    font-weight: 900;
+    background-color: rgb(149, 177, 177);
+}
+#add1{
+    width: 300px;
+    height: 300px;
+  
+
+}
+#addssdf{
+    width: 320px;
+    height: 280px;
+    background-color: aliceblue;
+    margin-left: 500px;
+    margin-top: 0px;
+}
+.addssa{
+    position: absolute;
+    margin-top: 100px;
+}
+#addssdf .lkjhg{
+    width: 100px;
+}
+#mjuh{
+    margin-left: 500px;
+    width: 320px;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(255, 72, 0);
+    font-weight: 900;
+    background-color: rgb(149, 177, 177);
+}
+#addss img{
+    width: 300px;
+    height: 300px;
+  border-radius: 50%;
+}
+.pati{
+    overflow: hidden;
+    height: 10px;
+max-width: 300px;
+    background-color: blue;
+    border-radius: 10px;
+  
+}
+
+#addss{
+    width: 300px;
+    height: 400px;
+    margin-left: 500px;
+    margin-top: 100px;
+    background-position: center;
+    border-radius: 50px;
+}
+.pati{
+    background-color: darkblue;
+    position: relative;
+}
+.addssa .pati{
+    background-color: rgb(255, 255, 255);
+    margin-top: 1000px;
+    position: absolute;
+}
+#logo{
+    margin-top: 20px;
+    color: crimson;
+    font-size: 100px;
+    background-color: rgb(29, 29, 59);
+    border-radius: 15px;
+}
+#btnn{
+    margin-left: 100px;
+    width: 400px;
+    height: 300px;
+    background-position: center;
+    border-radius: 50%;
+
+}
+#rty{
+border: none;
+background: fixed;
+border-radius: 50%;
+}
+#Watch{
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: rgb(22, 168, 22);
+    width: 200px;
+    height: 40px;
+    font-size: 28px;
+    font-weight: 700
+}
+#asd{
+    margin-top: 100px;
+    margin-left: 1000px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: rgb(22, 168, 22);
+    width: 200px;
+    height: 40px;
+    font-size: 28px;
+    font-weight: 700
+}
+.pati2{
+ overflow: hidden;
+ max-width: 300px;
+   margin-left: 500px;
+    overflow: hidden;
+    height: 10px;
+max-width: 300px;
+    background-color: blue;
+    border-radius: 10px;
+}
